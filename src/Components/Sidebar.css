@@ -23,10 +23,8 @@
     width: 80%;
     height: 100%;
     border-radius: 20px;
-    border-top-style: hidden;
-    border-right-style: hidden;
-    border-left-style: hidden;
-    border-bottom-style: hidden;
+    border: none;
+    outline: none;
     background-color: white;
   
 }
